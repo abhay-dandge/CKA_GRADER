@@ -243,7 +243,7 @@ fi
 echo -e "${CYAN}🧾 Summary:${RESET} ${GREEN}$PASSED Passed${RESET}, ${RED}$FAILED Failed${RESET}"
 
 
-set -e  # Re-enable strict mode
+#set -e  # Re-enable strict mode
 # === GITHUB AUTHENTICATION DETAILS ===
 
 GITHUB_USERNAME="abhay-dandge"  # Replace with your GitHub username
