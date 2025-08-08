@@ -246,8 +246,8 @@ echo -e "${CYAN}🧾 Summary:${RESET} ${GREEN}$PASSED Passed${RESET}, ${RED}$FAI
 #set -e  # Re-enable strict mode
 # === GITHUB AUTHENTICATION DETAILS ===
 
-GITHUB_USERNAME="abhay-dandge"  # Replace with your GitHub username
-GITHUB_TOKEN="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"
+GITHUB_USERNAME="unnati-git-grader"  # Replace with your GitHub username
+GITHUB_TOKEN="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"
 
 # === CONFIRMATION LOOP ===
 while true; do
